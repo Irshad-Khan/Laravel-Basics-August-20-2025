@@ -1,10 +1,10 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import ShowCertificate from './components/ShowCertificate';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <>
         {/* Navigation */}
         <nav
@@ -43,7 +43,7 @@ function App() {
           </div>
         </footer>
       </>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
