@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 
 function ShowCertificate() {
   const { username } = useParams();
-  const imageUrl = `/certificates/${username}.png`;
+  const imageUrl = `https://irshad-khan.github.io/Laravel-Basics-August-20-2025/certificates/${username}.png`;
 
   return (
     <div className="text-center">
