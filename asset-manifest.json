@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Laravel-Basics-August-20-2025/static/js/main.4d06c745.js",
+    "main.js": "/Laravel-Basics-August-20-2025/static/js/main.c20525f0.js",
     "index.html": "/Laravel-Basics-August-20-2025/index.html",
-    "main.4d06c745.js.map": "/Laravel-Basics-August-20-2025/static/js/main.4d06c745.js.map"
+    "main.c20525f0.js.map": "/Laravel-Basics-August-20-2025/static/js/main.c20525f0.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d06c745.js"
+    "static/js/main.c20525f0.js"
   ]
 }
